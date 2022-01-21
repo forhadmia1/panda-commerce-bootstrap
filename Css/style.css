@@ -1,0 +1,26 @@
+:root{
+    --common-color: linear-gradient(#ff4d93 , #fe1c75);
+}
+
+.panda-bg-banner{
+    background-color: #fceae8;
+}
+.panda-btn{
+    background-image: var(--common-color);
+}
+.bg-wattch{
+    background-color: #fea500;
+}
+.bg-bag{
+    background-color: #da70d5;
+}
+.bg-shoes{
+    background-color: #0000fe;
+}
+.panda-message{
+    height: 300px;
+    background-color: #fceae8;
+}
+.panda-input{
+    width: 250px;
+}
